@@ -1,3 +1,2 @@
 # Blog_Project
-A simple blog posting website
-I am still working on this project
+A simple blog posting website still working on this project
